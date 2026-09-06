@@ -1,4 +1,4 @@
-# Windows Update Blocker (WUB)
+# Windows Update Blocker (WUB)-中文简体版，未对本体做修改~
 
 ## 📌 简述
 **Windows Update Blocker（WUB）是一个简单而有效的工具，只需一次点击即可完全禁用或重新启用 Windows 更新及相关服务。对于希望完全控制 Windows 更新、避免不必要的更改、防止系统变慢或被迫重启的用户来说，这个工具非常实用。**
