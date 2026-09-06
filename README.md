@@ -1,37 +1,42 @@
 # Windows Update Blocker (WUB)
 
-## 📌 Overview
-Windows Update Blocker (WUB) is a simple and effective tool that allows you to **completely disable** or **re-enable** Windows Updates and related services with a single click. This is useful for users who want full control over Windows updates to prevent unwanted changes, system slowdowns, or forced restarts.
+## 📌 简述
+**Windows Update Blocker（WUB）是一个简单而有效的工具，只需一次点击即可完全禁用或重新启用 Windows 更新及相关服务。对于希望完全控制 Windows 更新、避免不必要的更改、防止系统变慢或被迫重启的用户来说，这个工具非常实用。**
 
-## 🚀 Features
-- ✅ **One-click disable/enable Windows Updates**
-- ✅ **Prevents Windows from automatically re-enabling updates**
-- ✅ **Lightweight and portable (no installation required)**
-- ✅ **Works on Windows 10 & 11**
+## 🚀 功能介绍
+- ✅ **一键启用/禁用 Windows 更新功能**
+- ✅ **防止 Windows 系统自动重新启用更新功能**
+- ✅ **重量轻、携带方便（无需安装)**
+- ✅ **适用于 Windows 10 和 Windows 11 操作系统。**
 
-## 🛠️ How to Use
-### **Disable Windows Updates**
-1. **Run `Wub.exe` as Administrator**
-2. Select **"Disable Updates"**
-3. Click **"Apply Now"**
-4. ✅ Done! Windows Update services are now disabled.
+## 🛠️ 使用方法
+### **禁用 Windows 更新**
+1. **以管理员权限运行 Wub.exe**
+2. **选择“禁用更新”**
+3. **点击“立即应用”**
+4. ✅ 至此已完成Windows 更新服务现的禁用。
 
-### **Re-enable Windows Updates**
-1. Open **WUB**
-2. Select **"Enable Updates"**
-3. Click **"Apply Now"**
-4. 🔄 Windows Updates are now restored.
+### **重新启用 Windows 更新**
+1. 打开 **WUB**
+2. 选择 **"启用更新"**
+3. 点击 **"立即应用"**
+4. 🔄 Windows 系统的更新现已恢复。
 
-### **Advanced Settings**
-- Click **"Menu" > Service List** to see which Windows services are affected.
-- You can modify `Wub.ini` for additional configurations.
+### **高级设置**
+- 点击 **“菜单”**>**“服务列表”**，即可查看哪些 Windows 服务受到了影响。
+- 你可以修改 **Wub.ini** 以进行额外的配置。
 
-## ❗ Important Notes
-- Some third-party applications or Windows Defender may try to re-enable updates.
-- Windows Feature Updates may reset WUB settings—reapply if needed.
+## ❗ 重要提示
+- 一些第三方应用程序或 Windows Defender 可能会尝试重新启用更新功能。
+- Windows 功能更新可能会重置 WUB 的设置，如有必要，请重新应用这些设置。
 
 
 
-## 💡 Disclaimer
-This tool is for **educational purposes only**. Use at your own risk. Disabling updates may leave your system vulnerable.
+## 💡 免责声明
+**该工具仅用于教育目的。请自行承担使用风险。禁用更新功能可能会导致您的系统变得不安全，概不负责！！！**
 
+
+
+
+## 💡 提示
+**Mosli仅提供中文（简体）副本，未对软件任何功能进行任何修改，所有翻译借助软件提供功能实现！**
